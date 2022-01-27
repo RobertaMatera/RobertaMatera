@@ -1,5 +1,9 @@
+![background](https://user-images.githubusercontent.com/93257351/151459268-7bf89e3e-c482-46b5-9345-409d4beb0bda.png)
 
-![jumbotron_git](https://user-images.githubusercontent.com/93257351/151458970-b0651c25-0189-4071-b61f-09cc40790092.png)
+👉 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
+💬 https://www.linkedin.com/in/roberta-matera/
+📩 materaroberta11@gmail.com
+
 
 
 🚀 🚀 🚀 My coding motto is: "𝙀𝙍𝙍𝙊𝙍 𝙂𝙐𝙄𝘿𝙀𝙎 𝙔𝙊𝙐!"!
