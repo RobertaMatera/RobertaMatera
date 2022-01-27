@@ -21,6 +21,12 @@
 
 
 👩🏻 𝗪𝗛𝗢 𝗔𝗠 𝗜 ? 👇
+
+
+
+
+
+
 After architecture graduation I decided to switch off to web development.
 
 
