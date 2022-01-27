@@ -15,7 +15,16 @@
 
 
 
+
+
+
+
+
 🚀 🚀 🚀 My coding motto is: "𝙀𝙍𝙍𝙊𝙍 𝙂𝙐𝙄𝘿𝙀𝙎 𝙔𝙊𝙐!"!
+
+
+
+
 
 
 👩🏻 𝗪𝗛𝗢 𝗔𝗠 𝗜 ? 👇
@@ -40,10 +49,19 @@ Moreover I am a 𝙝𝙪𝙢𝙗𝙡𝙚 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤�
 
 
 
+
+
+
+
 📖 𝗠𝗬 𝗦𝗧𝗢𝗥𝗬 👇
 After university I realized that I wasn't completely satisfied so I took several steps at the same time in order to find my way. It's how I discovered web development. I've been fascinated by this world from the very first time and I've attended my first full-stack boot camp. It was super intensive and I experienced impostor syndrome. 
 I've worked on it and I realized that I've still needed a guide to go on and I focused my attention on front-end.
 Doing this journey I've met Strive School and here I am!
+
+
+
+
+
 
 
 💯 𝗠𝗬 𝗣𝗥𝗢 👇
@@ -56,6 +74,11 @@ Doing this journey I've met Strive School and here I am!
 
 
 ✅ 𝙂𝙊𝙊𝘿 𝙊𝘽𝙎𝙀𝙍𝙑𝙀𝙍 𝘼𝙉𝘿 𝙇𝙄𝙎𝙏𝙀𝙉𝙀𝙍
+
+
+
+
+
 
 
 
