@@ -21,6 +21,9 @@
 
 
 👩🏻 𝗪𝗛𝗢 𝗔𝗠 𝗜 ? 👇
+After architecture graduation I decided to switch off to web development.
+
+
 I am a 𝙘𝙪𝙧𝙞𝙤𝙪𝙨, 𝙚𝙘𝙡𝙚𝙘𝙩𝙞𝙘, 𝙙𝙞𝙨𝙘𝙧𝙚𝙚𝙩 and 𝙧𝙚𝙨𝙚𝙧𝙫𝙚𝙙 person, 𝙘𝙤𝙣𝙨𝙩𝙖𝙣𝙩𝙡𝙮 𝙧𝙚𝙖𝙙𝙮 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙤𝙩𝙝𝙚𝙧𝙨.
 I am that person on whom you can rely on. In a team I am usually the 𝙢𝙚𝙙𝙞𝙖𝙩𝙤𝙧, always ready to share my knowledge in order to grow as a team. 
 I think that in a group we are stronger and can reach higher results than alone.
