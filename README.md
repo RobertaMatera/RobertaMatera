@@ -44,61 +44,6 @@ Moreover I am a 𝙝𝙪𝙢𝙗𝙡𝙚 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤�
 
 🔸 𝙀𝙈𝙋𝘼𝙏𝙃𝙄𝘾
 
-
-
-
-
-
-
-
-
-
-📖 𝗠𝗬 𝗦𝗧𝗢𝗥𝗬 👇
-After university I realized that I wasn't completely satisfied so I took several steps at the same time in order to find my way. It's how I discovered web development. I've been fascinated by this world from the very first time and I've attended my first full-stack boot camp. It was super intensive and I experienced impostor syndrome. 
-I've worked on it and I realized that I've still needed a guide to go on and I focused my attention on front-end.
-Doing this journey I've met Strive School and here I am!
-
-
-
-
-
-
-
-💯 𝗠𝗬 𝗣𝗥𝗢 👇
-
-
-✅ 𝙋𝙐𝙍𝙋𝙊𝙎𝙀𝙁𝙐𝙇
-
-
-✅ 𝙋𝘼𝙏𝙄𝙀𝙉𝙏
-
-
-✅ 𝙂𝙊𝙊𝘿 𝙊𝘽𝙎𝙀𝙍𝙑𝙀𝙍 𝘼𝙉𝘿 𝙇𝙄𝙎𝙏𝙀𝙉𝙀𝙍
-
-
-
-
-
-
-
-
-
-
-🔨 𝙈𝙔 𝙋𝙊𝙄𝙉𝙏 𝙊𝙁 𝙒𝙀𝘼𝙆𝙉𝙀𝙎𝙎 👇
-
-
-🔹 𝘿𝙄𝙁𝙁𝙄𝘾𝙐𝙇𝙏𝙔 𝙄𝙉 𝙏𝘼𝙇𝙆𝙄𝙉𝙂 𝘼𝘽𝙊𝙐𝙏 𝙋𝙍𝙊𝘽𝙇𝙀𝙈𝙎
-
-
-🔹 𝙀𝙈𝙊𝙏𝙄𝙊𝙉𝘼𝙇𝙄𝙏𝙔
-
-
-🔹 𝙄 𝙇𝙊𝙊𝙆 𝘼𝙏 𝙏𝙊𝙊 𝙈𝙐𝘾𝙃 𝘿𝙀𝙏𝘼𝙄𝙇
-
-
-
-
-
 <!--
 **RobertaMatera/RobertaMatera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
