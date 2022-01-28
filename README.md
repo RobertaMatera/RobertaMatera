@@ -35,7 +35,7 @@ I am that person on whom you can rely on. In a team I am usually the 𝙢𝙚�
 I think that in a group we are stronger and can reach higher results than alone.
 Moreover I am a 𝙝𝙪𝙢𝙗𝙡𝙚 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤𝙣𝙞𝙨𝙩 so I do my best with what I have, I am 𝙤𝙥𝙚𝙣 𝙢𝙞𝙣𝙙𝙚𝙙 and I 𝙡𝙤𝙫𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 and 𝙘𝙤𝙙𝙞𝙣𝙜! 
 
-🌈 𝗟𝗢𝗡𝗚 𝗦𝗧𝗢𝗥𝗬 𝗦𝗛𝗢𝗥𝗧: 𝗠𝗘 𝗜𝗡 𝗧𝗛𝗥𝗘𝗘 𝗪𝗢𝗥𝗗𝗦 👇
+🌈 𝗠𝗘 𝗜𝗡 𝗧𝗛𝗥𝗘𝗘 𝗪𝗢𝗥𝗗𝗦 👇
 
 
 🔸 𝘾𝙍𝙀𝘼𝙏𝙄𝙑𝙀
