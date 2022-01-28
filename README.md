@@ -23,6 +23,8 @@ Moreover I am a 𝙝𝙪𝙢𝙗𝙡𝙚 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤�
 
 
 ✒️ If you want to know more, send me a messagge on linkedin and join my network or send me an email! 😉
+
+
 👉 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
 
 📫 https://www.linkedin.com/in/roberta-matera/
