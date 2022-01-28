@@ -51,7 +51,7 @@ Moreover I am a 𝙝𝙪𝙢𝙗𝙡𝙚 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤�
 
 
 ✒️ If you want to know more, send me a messagge on linkedin and join my network or send me an email! 😉
-![logoLinkedin](https://user-images.githubusercontent.com/93257351/151625824-077fe721-1b4a-46b1-8776-73b40fccc898.png)
+
 📫 https://www.linkedin.com/in/roberta-matera/
 
 📩 materaroberta11@gmail.com
