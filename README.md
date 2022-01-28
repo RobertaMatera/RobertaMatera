@@ -5,14 +5,6 @@
 📌 𝗛𝗧𝗠𝗟 📌 𝗖𝗦𝗦 📌 𝗝𝗦 📌 𝗥𝗘𝗔𝗖𝗧 📌 𝗧𝗬𝗣𝗘𝗦𝗖𝗥𝗜𝗣𝗧
 
 
-
-👉 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
-
-📫 https://www.linkedin.com/in/roberta-matera/
-
-📩 materaroberta11@gmail.com
-
-
 👩🏻 𝗪𝗛𝗢 𝗔𝗠 𝗜 ? 👇
 After my MSc in Architecture, I realized that I wasn't completely satisfied by the idea of that career so I decided to switch off to web development.
 
@@ -31,11 +23,11 @@ Moreover I am a 𝙝𝙪𝙢𝙗𝙡𝙚 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤�
 
 
 ✒️ If you want to know more, send me a messagge on linkedin and join my network or send me an email! 😉
+👉 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
 
 📫 https://www.linkedin.com/in/roberta-matera/
 
 📩 materaroberta11@gmail.com
-
 
 
 <!--
