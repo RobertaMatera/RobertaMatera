@@ -1,49 +1,57 @@
-![background1](https://user-images.githubusercontent.com/93257351/151624603-838df787-3672-4bf0-9e2e-7659cff8d012.png)
+<!-- Animated intro card -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RobertaMatera/RobertaMatera/HEAD/intro.svg" alt="Hi, I'm Roberta. Frontend engineer with an architect's eye, based in Bern." width="100%" />
+</p>
 
+<p align="center">
+  I used to design buildings. Now I design and build interfaces, from the requirement to the last pixel,<br/>
+  still caring about structure, proportion and the people (and cats 🐈) who use them.<br/>
+  <sub>Speaks 🇮🇹 🇬🇧 🇩🇪</sub>
+</p>
 
- 📌𝗥𝗘𝗔𝗖𝗧 📌𝗔𝗡𝗚𝗨𝗟𝗔𝗥 📌𝙑𝗨𝗘 📌𝗝𝗦  📌𝗧𝗬𝗣𝗘𝗦𝗖𝗥𝗜𝗣𝗧  📌𝗛𝗧𝗠𝗟 📌𝗖𝗦𝗦
+---
 
+### 🧭 The path so far
 
-👩🏻 𝗪𝗛𝗢 𝗔𝗠 𝗜 ? 👇
+```js
+const roberta = {
+  education: [
+    "MSc in Architecture · Polytechnic University of Bari · 2008–2017",
+    "Web Development Bootcamp",
+    "BSc in Information Technology for Digital Enterprises (L-31) · Pegaso Digital University · 2024–2026",
+  ],
+  role: "Frontend-focused Full-Stack Engineer",
+  focus: ["UX", "Design systems", "Requirements-driven delivery"],
+  next: "Product design",
+  speaks: ["Italian", "English", "German (learning)"],
+  pets: "all of them, cats first",
+  qaTeam: "🐈 walks on the keyboard, finds edge cases nobody else does",
+};
+```
 
+From floor plans to component trees: years spent on how people move through spaces, then a bootcamp and a second degree on how they move through screens. Same questions, faster builds, fewer bricks.
 
-After my MSc in Architecture, I realized that I wasn't completely satisfied by the idea of that career so I decided to switch off to web development.
+### 🛠️ Toolkit
 
-I am a 𝙘𝙪𝙧𝙞𝙤𝙪𝙨, 𝙚𝙘𝙡𝙚𝙘𝙩𝙞𝙘, 𝙙𝙞𝙨𝙘𝙧𝙚𝙚𝙩 and 𝙧𝙚𝙨𝙚𝙧𝙫𝙚𝙙 person, 𝙘𝙤𝙣𝙨𝙩𝙖𝙣𝙩𝙡𝙮 𝙧𝙚𝙖𝙙𝙮 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙤𝙩𝙝𝙚𝙧𝙨.
-I am that person on whom you can rely on. In a team I am usually the 𝙢𝙚𝙙𝙞𝙖𝙩𝙤𝙧, always ready to share my knowledge in order to grow as a team. 
-I think that in a group we are stronger and can reach higher results than alone.
-Moreover I am a 𝙝𝙪𝙢𝙗𝙡𝙚 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤𝙣𝙞𝙨𝙩 so I do my best with what I have, I am 𝙤𝙥𝙚𝙣 𝙢𝙞𝙣𝙙𝙚𝙙 and I 𝙡𝙤𝙫𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 and 𝙘𝙤𝙙𝙞𝙣𝙜! 
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,java,spring,html,css,sass&theme=light" alt="Angular, React, Next.js, TypeScript, JavaScript, Java, Spring Boot, HTML, CSS, Sass" />
+</p>
 
-🌈 𝗠𝗘 𝗜𝗡 𝗧𝗛𝗥𝗘𝗘 𝗪𝗢𝗥𝗗𝗦 👇
+### 📂 Here on GitHub
 
-🔥 𝘾𝙍𝙀𝘼𝙏𝙄𝙑𝙀
+The code behind my portfolio, side projects and experiments. Pinned repositories are the best place to start.
 
-🔥 𝙍𝙀𝙁𝙇𝙀𝘾𝙏𝙄𝙑𝙀
+---
 
-🔥 𝙀𝙈𝙋𝘼𝙏𝙃𝙄𝘾
-
-
-✒️ If you want to know more, send me a messagge on linkedin and join my network or send me an email! 😉
-
-
-👉 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
-
-📫 https://www.linkedin.com/in/roberta-matera/
-
-📩 materaroberta11@gmail.com
-
-
-<!--
-**RobertaMatera/RobertaMatera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RobertaMatera/RobertaMatera/HEAD/logo.png" alt="RM logo" width="56" />
+  <br/>
+    <p align="center">
+  <!-- Portfolio link hidden until the site is live. To show it, move it out of this comment:
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1D3C1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  -->
+  <a href="https://www.linkedin.com/in/roberta-matera/"><img src="https://img.shields.io/badge/LinkedIn-1D3C1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:materaroberta11@gmail.com"><img src="https://img.shields.io/badge/Email-6BA03C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/>
+  <sub>No cats were harmed in the making of this code. One was mildly inconvenienced by being moved off the laptop.</sub>
+</p>
