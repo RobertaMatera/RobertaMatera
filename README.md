@@ -44,15 +44,16 @@ The code behind my portfolio, side projects and experiments. Pinned repositories
 
 ---
 
-<p align="center">
+<div align="center">
+
   <img src="https://raw.githubusercontent.com/RobertaMatera/RobertaMatera/HEAD/logo.png" alt="RM logo" width="56" />
-  <br/>
-    <p align="center">
-  <!-- Portfolio link hidden until the site is live. To show it, move it out of this comment:
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1D3C1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  -->
-  <a href="https://www.linkedin.com/in/roberta-matera/"><img src="https://img.shields.io/badge/LinkedIn-1D3C1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:materaroberta.ch@gmail.com"><img src="https://img.shields.io/badge/Email-6BA03C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <br/>
+
+  <p>
+    <a href="https://robertamatera.app/en"><img src="https://img.shields.io/badge/Portfolio-1D3C1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/roberta-matera/"><img src="https://img.shields.io/badge/LinkedIn-1D3C1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:materaroberta.ch@gmail.com"><img src="https://img.shields.io/badge/Email-6BA03C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
   <sub>No cats were harmed in the making of this code. One was mildly inconvenienced by being moved off the laptop.</sub>
-</p>
+
+</div>
