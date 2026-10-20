@@ -16,9 +16,10 @@
 ```js
 const roberta = {
   education: [
-    "MSc in Architecture · Polytechnic University of Bari · 2008–2017",
-    "Web Development Bootcamp",
     "BSc in Information Technology for Digital Enterprises (L-31) · Pegaso Digital University · 2024–2026",
+    "Frontend Web Development bootcamp · Strive School (now part of Epicode)· Berlin · Oct 2021 – Feb 2022",
+    "Aulab Hackademy · Bari · Jan - Apr 2020",
+    "MSc in Architecture · Polytechnic University of Bari · 2008–2017",
   ],
   role: "Frontend-focused Full-Stack Engineer",
   focus: ["UX", "Design systems", "Requirements-driven delivery"],
