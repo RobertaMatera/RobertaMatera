@@ -1,6 +1,6 @@
 <!-- Animated intro card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RobertaMatera/RobertaMatera/HEAD/intro.svg" alt="Hi, I'm Roberta. Frontend engineer with an architect's eye, based in Bern." width="100%" />
+  <img src="https://raw.githubusercontent.com/RobertaMatera/RobertaMatera/HEAD/dynamic_intro.svg" alt="Hi, I'm Roberta. Frontend engineer with an architect's eye, based in Bern." width="100%" />
 </p>
 
 <p align="center">
