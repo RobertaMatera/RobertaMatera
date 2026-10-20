@@ -52,7 +52,7 @@ The code behind my portfolio, side projects and experiments. Pinned repositories
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1D3C1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   -->
   <a href="https://www.linkedin.com/in/roberta-matera/"><img src="https://img.shields.io/badge/LinkedIn-1D3C1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:materaroberta11@gmail.com"><img src="https://img.shields.io/badge/Email-6BA03C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:materaroberta.ch@gmail.com"><img src="https://img.shields.io/badge/Email-6BA03C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br/>
   <sub>No cats were harmed in the making of this code. One was mildly inconvenienced by being moved off the laptop.</sub>
 </p>
